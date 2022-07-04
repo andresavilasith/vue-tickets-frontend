@@ -22,7 +22,6 @@
         id="start"
         name="trip-start"
         class="form-control"
-        placeholder="Fecha de salida"
       />
     </div>
     <div class="col-md-3">
@@ -31,7 +30,6 @@
         id="start"
         name="trip-start"
         class="form-control"
-        placeholder="Fecha de retorno"
       />
     </div>
   </div>
